@@ -16,6 +16,7 @@ import "./modules/CBMSModules.sol";
 /// JUST `GRS` kernel contains payable operations through "make" function (!!!)
 */
 contract GRS {
+
     /*
     ///
     ////// Fundamental data
