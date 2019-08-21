@@ -1,0 +1,1 @@
+[{"inputs":[{"name":"_creatorOwner","type":"address"},{"name":"_creator","type":"address"},{"name":"_entity","type":"address"},{"name":"_owner","type":"address"},{"name":"_employee","type":"address"},{"name":"_project","type":"address"}],"payable":false,"stateMutability":"nonpayable","type":"constructor"}]
