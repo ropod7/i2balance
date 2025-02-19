@@ -1,6 +1,6 @@
 # i2balance
 
-Solidity based Inter-Industry Balance of Economic system
+Solidity based Inter-Industry Balance of Global Economic system
 
 (Docs at (russian): docs/I2BALANCE-2_rus.pdf)
 
